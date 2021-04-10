@@ -1,6 +1,6 @@
  //Enables to add words to a file,
  //by using the "a+" mode the program can both read and write
- //It creates the "word" file and enables you to place words in it.
+ //It creates the "wordadd" file and enables you to place words in it.
  //One word per line.
 #include <stdio.h>
 #include <stdlib.h>
